@@ -218,7 +218,7 @@ For TabTransformer convergence experiments:
 4. Huang, X., et al. (2020). TabTransformer: Tabular data modeling using contextual embeddings. *arXiv:2012.06678*.
 5. Peña-Asensio, E., et al. (2023). Deep machine learning for meteor monitoring. *Planetary and Space Science*, 238, 105802.
 
-See the full paper for a complete reference list.
+See the full paper for a complete reference list: ([Full Paper](https://ieeexplore.ieee.org/document/11440853)).
 
 ---
 
